@@ -38,10 +38,6 @@ public class HelloWorld {
     System.out.println("Hello, Rajendra");
     System.out.println("Hello, Raju");
     System.out.println("Hello, Database");
-    System.out.println("Hello, Database");
-    System.out.println("Hello, Database");
-    System.out.println("Hello, Database");
-    System.out.println("Hello, Database");
     System.out.println("Hello, There");
     System.out.println("Hello, Raj");
   }
